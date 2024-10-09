@@ -1,0 +1,23 @@
+#main{
+    width: 230px;
+    background-color:rgb(37, 32, 32);
+    padding: 15px;
+    border-radius: 5px;
+display: flex;
+flex-wrap: wrap;
+}
+#cal{
+    color: aliceblue;
+}
+#display{
+    width: 100%;
+    padding: 6px;
+}
+.btn{
+    border-radius: 50%;
+    border: 0;
+    height: 40px;
+    width: 40px;
+    margin: 5px 3px;
+    
+}
